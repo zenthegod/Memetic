@@ -22,7 +22,7 @@
             </ul>
         </div>
         <div id="header">
-            <div id="left_bar_header"><a href="index.html"><span class="title" >MEME</span></a><span class="title_dark">TIC</span>
+            <div id="left_bar_header"><a href="index.php"><span class="title" >MEME</span></a><span class="title_dark">TIC</span>
                 <p><b>The answer to your problem.</b></p>
             </div>
         </div>
