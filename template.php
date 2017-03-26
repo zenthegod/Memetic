@@ -22,7 +22,7 @@
             </ul>
         </div>
         <div id="header">
-            <div id="left_bar_header"><span class="title" ><a href = "C:\Users\zsid3\Google Drive\Memetic\Memetic\index.html">MEME</span><span class="title_dark">TIC</a></span>
+            <div id="left_bar_header"><span class="title" ><a href = "C:\Users\zsid3\Google Drive\Memetic\Memetic\index.php">MEME</span><span class="title_dark">TIC</a></span>
                 <p><b>The answer to your problem.</b></p>
             </div>
             <div id="right_bar_header"><img src="images/head_bckg_right.jpg" alt="" /></div>
