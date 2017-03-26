@@ -1,0 +1,46 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: "Helvetica Neue", "Arial", sans-serif;
+  background: #1d58f9;
+  padding-left: 5%;
+  padding-right: 5%;
+  padding-top: 5%;
+  color: white;
+}
+
+.name, .email, .title{
+    color: white;
+    font-size: 12px;
+    border: 0;
+    padding: 10px 12px 10px 12px;
+
+}
+
+.resizedTextbox{
+  width: 200px; height: 30px;
+}
+
+input[type=checkbox]{
+  width: 20px;
+  cursor: pointer;
+  zoom: 2;
+}
+
+.button{
+  font-size: 16px;
+  cursor: pointer;
+}
+.t{
+  width: 300px;
+  font-size: 16px;
+  cursor: pointer;
+}
+.button:hover{
+  background-color: white;
+}
+.header{
+  text-align: center;
+}
